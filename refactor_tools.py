@@ -13,6 +13,8 @@ If it reaches for `Edit` instead of these, the descriptions did not do their
 job.
 """
 
+#Added a line to check Github Copilot's ability to detect changes in the code.
+
 from __future__ import annotations
 
 import re
